@@ -1,0 +1,4 @@
+#opencv2 needed. build from source on their site.
+ws4py
+pyaudio
+watson-developer-cloud
